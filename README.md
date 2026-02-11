@@ -1,10 +1,9 @@
-
 **
 PRIVACY NOTICE
 ==============
 **
-**Last updated \_\_\_\_\_\_\_\_\_\_**
-This Privacy Notice for \_\_\_\_\_\_\_\_\_\_ ('**we**', '**us**', or '**our**'), describes how and why we might access, collect, store, use, and/or share ('**process**') your personal information when you use our services ('**Services**'), including when you:
+**Last updated 02/11/2026**
+This Privacy Notice for Versify Music - MP3 Player, describes how and why we might access, collect, store, use, and/or share ('**process**') your personal information when you use our services ('**Services**'), including when you:
 *   Download and use our mobile application (Versify Music - MP3 Player), or any other application of ours that links to this Privacy Notice
 *   Use MP3 Player. An app to play MP3 files from android devices.
 *   Engage with us in other related ways, including any marketing or events
